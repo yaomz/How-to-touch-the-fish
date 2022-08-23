@@ -4,4 +4,4 @@ Little strokes fell great oaks
 eg:
 ## spring源码系列
 * <昵称：果冻虾仁https://github.com/yaomz/notepad/issues/1>
-* [我的博客](https://github.com/yaomz/notepad/issues/1"悬停显示")
+* [我的博客](https://github.com/yaomz/notepad/issues/1)
