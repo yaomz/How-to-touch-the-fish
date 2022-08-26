@@ -6,4 +6,4 @@
 
 ## springclould
 > ### sentinel
->> [初识sentinel](https://github.com/yaomz/notepad/issues/1)
+>> [初识sentinel](https://github.com/yaomz/How-to-touch-the-fish/issues/2)
