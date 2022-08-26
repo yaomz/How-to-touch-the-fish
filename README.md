@@ -5,6 +5,5 @@
 * [昵称：果冻虾仁](https://github.com/yaomz/notepad/issues/1)
 
 ## springclould
->> ### springclouldalibaba
->>> #### sentinel
->>>> [sentinel](https://github.com/yaomz/notepad/issues/1)
+>> ### sentinel
+>>> [sentinel](https://github.com/yaomz/notepad/issues/1)
