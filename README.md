@@ -7,3 +7,5 @@
 ## springclould
 > ### sentinel
 >> [初识sentinel](https://github.com/yaomz/How-to-touch-the-fish/issues/2#issue-1352294198)
+>> [sentinel配置规则](https://github.com/yaomz/How-to-touch-the-fish/issues/3#issue-1353075372)
+
